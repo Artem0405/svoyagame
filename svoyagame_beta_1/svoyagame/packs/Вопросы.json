@@ -1,0 +1,1247 @@
+{
+  "packName": "Вопросы",
+  "themes": [
+    {
+      "themeName": "Гачимучие",
+      "questions": [
+        {
+          "questionText": "Как называется крупнейшая коренная, родственная по языку и происхождению европейская группа народов?",
+          "answerText": "Slaveане",
+          "points": 100,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется четкое и ясное произношение звуков речи?",
+          "answerText": "Dickция",
+          "points": 200,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется процесс систематического сбора, обработки и интерпретации данных для получения ценной информации, которая помогает принимать обоснованные решения",
+          "answerText": "Analитика",
+          "points": 300,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется процесс, обеспечивающий у животных встречу половых клеток яиц и сперматозоидов, предшествующий оплодотворению?",
+          "answerText": "Оsemenение",
+          "points": 400,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Известный охотник на вампиров сыгранный Хью Джекманом в одноименном фильме",
+          "answerText": "Van Хельсинг",
+          "points": 500,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется теоретический общественный и экономический строй, основанный на общественной собственности на средства производства, что обеспечивает социальное равенство?",
+          "answerText": "Cumмунизм",
+          "points": 600,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется форма правления, при которой политическая власть находится в руках одного правителя или группы лиц, которые управляют государством без участия граждан?",
+          "answerText": "Dickтатура",
+          "points": 700,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется вид ручной дорожной сумки с запором из кожи или плотной ткани? Также переводиться, как \"Путевой мешок\"",
+          "answerText": "Suckвояж",
+          "points": 800,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Где я блять",
+      "questions": [
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Россия, Москва",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "США, Нью-Йорк",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Франция, Париж",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Германия, Берлин",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Израиль, Тель-Авив",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\Users\\artem\\Downloads\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Индия, Дели",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Бразилия, Рио-де-Жанейро",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадай локацию",
+          "answerText": "Турция, Анталия",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Где я блять\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Президенты России",
+      "questions": [
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Ельцин",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Медведев",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Путин_Оригинал",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\300_1.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Путин_Удмурт",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\300_2.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Путин_Решала",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\300_3.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Путин_Рыболов",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\300_4.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Путин_Кучма",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\300_5.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите президента",
+          "answerText": "Путин_Банкетный",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Президенты России\\300_6.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Расистские загадки",
+      "questions": [
+        {
+          "questionText": "В машине сидят негр и мексиканец. Кто за рулём?",
+          "answerText": "Полицейский",
+          "points": 100,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Негр и мексиканец падают с небоскрёба. Кто упадёт первым?",
+          "answerText": "Какая разница?",
+          "points": 200,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Что надо сказать, увидев негра, по шею закатанного в бетон?",
+          "answerText": "Мало бетона",
+          "points": 300,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется один белый в окружении тысячи негров?",
+          "answerText": "Надсмотрщик",
+          "points": 400,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Почему, когда какие-либо приборы не работают - по ним бьют?",
+          "answerText": "С рабами ведь срабатывало",
+          "points": 500,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как понять, что у негра недавно был секс?",
+          "answerText": "Его глаза всё ещё красные от перцового баллончика.",
+          "points": 600,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Как называется негр на велосипеде?",
+          "answerText": "Вор",
+          "points": 700,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Почему в Нью Йорке так много негров, а в Калифорнии - землетрясений?",
+          "answerText": "Калифорния выбирала первой",
+          "points": 800,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Страна по описанию",
+      "questions": [
+        {
+          "questionText": "Страна, известная своими традициями пива и колбас, славится дружелюбными людьми, которые всегда готовы помочь, но при этом у них вечно грустное выражение лиц. Здесь обязательны фестивали с пивом и огромные пивные залы, где мужчины в добротных костюмах пьют и поют народные песни.",
+          "answerText": "Германия",
+          "points": 100,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Эта страна ассоциируется с морозами и сказками о Дедушке Морозе. Здесь люди обожают проводить время на свежем воздухе, катаясь на санках и грибах. Но несмотря на холод, все массово пьют горячий чай и ни за что не откажутся от рыбалки, даже если это означает проводить целый день на льду.",
+          "answerText": "Россия",
+          "points": 200,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "В этой стране все непременно обожают отдыхать на пляже и есть тонны морепродуктов, включая устриц и креветок, которые тут же подают с пивом. Народ известен своим расслабленным образом жизни и частыми праздниками, где танцы под открытым небом и большие вечеринки с фейерверками являются обязательными атрибутами.",
+          "answerText": "Мексика",
+          "points": 300,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Эта страна известна своим вниманием к моде и искусству. Жители любят сидеть в кафе с чашечкой кофе и обсуждать последние новинки, а также проводят много времени в музеях, восхищаясь искусством. Обычно их стиль — это сочетание строгости и ярких аксессуаров, и, конечно, они не представляют своей жизни без круассанов.",
+          "answerText": "Италия",
+          "points": 400,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Эта дальневосточная страна славится своей древней культурой и большими достижениями в технологиях. Здесь люди упорно трудятся и все время учатся, но для них крайне важно тратить время на общение с друзьями после работы, чтобы насладиться вкусной едой и напитками. Гастрономия отличается разнообразием, но пикники — это священная традиция.",
+          "answerText": "Япония",
+          "points": 500,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "В этой густонасленной стране зелень становится символом счастья, а улицы всегда полны музыки и танцев. Люди здесь известны своей страстью к футболу, и каждый выходной — это повод для большой игры с друзьями. Кулинария славится удивительными специями и уличной едой, а уличные фестивали — это непрерывное веселье.",
+          "answerText": "Бразилия",
+          "points": 600,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Страна, где солнце светит почти круглый год, славится тапас, вкусным мясом и сырами. Люди обожают долгие ужины с друзьями до глубокой ночи, а фламенко и коррида—это символ традиций. Сиеста — священное время отдыха. Праздники охватывает живая музыка и яркие танцы, а уличные рынки полны свежими продуктами. Здесь красивые пляжи и дружелюбные люди, для которых «праздновать» — это стиль жизни.",
+          "answerText": "Испания",
+          "points": 700,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "В этой стране живут страстные поклонники природы, которые проводят выходные на велосипедах или в горах. Они известны своей деятельностью в области охраны окружающей среды и часто организуют большие семейные сборища на свежем воздухе, где обязательно подаются экологически чистые продукты, а также представляются различные спортивные состязания.",
+          "answerText": "Новая Зеландия",
+          "points": 800,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Я не узнаю вас в гриме",
+      "questions": [
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Хелена Бонем Картер (Алиса в стране чудес)",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Колин Фаррелл (Пингвин)",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Том Круз (Солдаты неудачи)",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Тильда Суинтон (Суспирия)",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Брэд Питт (Загадочной истории Бенджамина Баттон)",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Джаред Лето (Господин Никто)",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Гвинет Пэлтроу (Любовь зла)",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите актера",
+          "answerText": "Джонни Депп (Бивень)",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\1\\Я не узнаю вас в гриме\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Ai каверы",
+      "questions": [
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "Руны и Свастики - ai кавер\\бебэй",
+          "points": 100,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\100.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "how bad can i be - ai кавер\\гитлер",
+          "points": 200,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\200.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "Морячка - кавер\\Невский",
+          "points": 300,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\300.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "Опера - аi кавер\\Пучков",
+          "points": 400,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\400.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "Искупление огнём - не кавер",
+          "points": 500,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\500.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "Мама я танцую - кавер\\Воробьев",
+          "points": 600,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\600.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "im still standing - аi кавер\\Трамп",
+          "points": 700,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\700.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является ли эта композиция оригиналом или кавером(ai кавером)?",
+          "answerText": "Перышки - не кавер",
+          "points": 800,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Ai каверы\\800.wav",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Джон, мы что злодеи",
+      "questions": [
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Злодей",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Злодей",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Герой",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Герой",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Злодей",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Герой",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Злодей",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Является этот персонаж протагонистом или антагонистом в произведении",
+          "answerText": "Злодей",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Джон, мы что злодеи\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Загадки на логику",
+      "questions": [
+        {
+          "questionText": "Какие сережки предназначены для простаков?",
+          "answerText": "Лапша",
+          "points": 100,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Сколько яиц можно съесть натощак?",
+          "answerText": "Одно, второе уже будет не натощак",
+          "points": 200,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Что будет, если три раза повернуть направо?",
+          "answerText": "Вы повернете налево",
+          "points": 300,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Не лед, а тает, не лодка, а уплывает",
+          "answerText": "Зарплата",
+          "points": 400,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Что делать, если видите зеленого человечка?",
+          "answerText": "Переходить улицу",
+          "points": 500,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "– Она красная? \n– Нет, черная. \n– А почему она сейчас белая? \n– Потому, что еще зеленая. \nО чем речь?",
+          "answerText": "Смородина",
+          "points": 600,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Первые два раза это дается нам бесплатно. За третий раз надо платить. Что это?",
+          "answerText": "Зубы",
+          "points": 700,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Вы сидите в самолете. Впереди вас лошадь, сзади — автомобиль. Где вы?",
+          "answerText": "На карусели",
+          "points": 800,
+          "type": "TEXT",
+          "filePath": null,
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Личность в песне",
+      "questions": [
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Путин",
+          "points": 100,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\100.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Джек Потрошитель",
+          "points": 200,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\200.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Елизавета Петровна\\Анна Иоановна\\Екатерина 2",
+          "points": 300,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\300.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Григорий Распутин",
+          "points": 400,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\400.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Иван Сусанин",
+          "points": 500,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\500.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Ермак",
+          "points": 600,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\600.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Иисус",
+          "points": 700,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\700.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите личность",
+          "answerText": "Дракула",
+          "points": 800,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Личность в песне\\800.wav",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Сериалы СТС",
+      "questions": [
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Папины дочки",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Ивановы-Ивановы",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Молодежка",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Мама будет против",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Кухня",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Кадетство",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Гости из прошлого",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите сериал",
+          "answerText": "Как Деревянко Ломоносова играл",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Сериалы СТС\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Трапомания",
+      "questions": [
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Покахонтас",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Ванилоппа",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Тиана",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Круэлла",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Жасмин",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Эсмеральда",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Малифисента",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите персонажа",
+          "answerText": "Эльза",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\2\\Трапомания\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Игра по скриншоту",
+      "questions": [
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Майнкрафт",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Симс",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Энимал кроссинг",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Портал 2",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Диабло",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Масс Эффект",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "Киберпанк",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите игру",
+          "answerText": "grand theft auto san andreas",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Игра по скриншоту\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "История с РадиоТапок",
+      "questions": [
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Битва за Москву",
+          "points": 100,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\100.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Атака Мертвецов",
+          "points": 200,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\200.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Смута (освобождение Москвы)",
+          "points": 300,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\300.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Захват высоты 776 (Вторая Чеченская)",
+          "points": 400,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\400.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Черный Октябрь (Расстрел Белого Дома)",
+          "points": 500,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\500.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Операция Союзная Сила (Бомбежки Белграда)",
+          "points": 600,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\600.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Сражение при Гангуте",
+          "points": 700,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\700.wav",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Угадайте историческое событие",
+          "answerText": "Битва за Нарву",
+          "points": 800,
+          "type": "AUDIO",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\История с РадиоТапок\\800.wav",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Мультфильм по еде",
+      "questions": [
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Спящая красавица",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Леди и Бродяга",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Кунг Фу Панда",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Спандж Боб",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "приключения Десперо",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Рататуй",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Красавица и чудовище",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите мультфильм, в котором была эта еда",
+          "answerText": "Гарлфилд",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Мультфильм по еде\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Новогодние фильмы",
+      "questions": [
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Ирония судьбы, или с легким паром!",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Один дома",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Рождественская история",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Гринч",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Плохой Санта",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Хранители снов",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Кошмар перед Рождеством",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите фильм",
+          "answerText": "Карнавальная ночь",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Новогодние фильмы\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Они могли бы быть в составе РФ",
+      "questions": [
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Великобритания",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Японимя",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "США",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Франция",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Канада",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Израиль",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Казахстан",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну, флаг которой зашифрован тут",
+          "answerText": "Украина",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Они могли бы быть в составе РФ\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    },
+    {
+      "themeName": "Страна по контуру",
+      "questions": [
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "Россия",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\100.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "США",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\200.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "Китай",
+          "points": 300,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\300.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "Италия",
+          "points": 400,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\400.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "Германия",
+          "points": 500,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\500.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "Египет",
+          "points": 600,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\600.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "Бразилия",
+          "points": 700,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\700.png",
+          "specialType": "NONE"
+        },
+        {
+          "questionText": "Назовите страну по контуру",
+          "answerText": "ЮАР",
+          "points": 800,
+          "type": "IMAGE",
+          "filePath": "C:\\svoayigra_packs\\Вопросы\\3\\Страна по контуру\\800.png",
+          "specialType": "NONE"
+        }
+      ]
+    }
+  ]
+}

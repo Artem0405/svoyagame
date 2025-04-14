@@ -1,0 +1,60 @@
+{
+  "packName": "Новый пак",
+  "themes": [
+    {
+      "themeName": "Тема текста",
+      "questions": [
+        {
+          "questionText": "Вопрос 1",
+          "answerText": "Ответ 1",
+          "points": 100,
+          "type": "TEXT"
+        },
+        {
+          "questionText": "Вопрос 2",
+          "answerText": "Ответ 2",
+          "points": 200,
+          "type": "TEXT"
+        }
+      ]
+    },
+    {
+      "themeName": "Тема звука",
+      "questions": [
+        {
+          "questionText": "Вопрос 1",
+          "answerText": "Ответ 1",
+          "points": 100,
+          "type": "AUDIO",
+          "filePath": "C:\\Users\\artem\\Downloads\\o-privet.wav"
+        },
+        {
+          "questionText": "Вопрос 2",
+          "answerText": "Ответ 2",
+          "points": 200,
+          "type": "AUDIO",
+          "filePath": "C:\\Users\\artem\\Downloads\\-blin-zachem-ya-syuda-prishel.wav"
+        }
+      ]
+    },
+    {
+      "themeName": "Тема картинок",
+      "questions": [
+        {
+          "questionText": "Вопрос 1",
+          "answerText": "Ответ 1",
+          "points": 100,
+          "type": "IMAGE",
+          "filePath": "C:\\Users\\artem\\OneDrive\\Изображения\\1672544340_foni-club-p-kartinki-na-telefon-tardis-5.jpg"
+        },
+        {
+          "questionText": "Вопрос 2",
+          "answerText": "Ответ 2",
+          "points": 200,
+          "type": "IMAGE",
+          "filePath": "C:\\Users\\artem\\OneDrive\\Изображения\\IMG_20230715_110316.jpg"
+        }
+      ]
+    }
+  ]
+}
